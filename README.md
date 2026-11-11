@@ -1,5 +1,3 @@
-# PlatformLens — Comparador de plataformas
-
 Aplicação React + Vite para comparar matrizes CSV de plataformas de CRM/Marketing Automation.
 
 ## Executar localmente
